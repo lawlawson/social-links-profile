@@ -11,4 +11,14 @@ body {
   min-height: 100vh;
   background-color: var(--clr-black);
   place-content: center;
+  align-items: center;
+}
+
+.wrapper {
+  display: flex;
+  background-color: var(--clr-dark-grey);
+  padding: 30px 40px;
+  border-radius: 10px;
+  flex-direction: column;
+  overflow: hidden;
 }

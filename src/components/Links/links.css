@@ -1,0 +1,27 @@
+:root {
+  --clr-black: hsl(0, 0%, 8%);
+  --clr-dark-grey: hsl(0, 0%, 13%);
+  --clr-grey: hsl(0, 0%, 20%);
+  --clr-white: white;
+  --clr-neon: hsl(75, 73%, 51%);
+  --ff: 'Chivo', sans-serif;
+  --ff-bold: 'Big Shoulders Display', cursive;
+}
+
+.container-links {
+  color: var(--clr-white);
+  font-family: var(--ff);
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+  background-color: var(--clr-grey);
+  padding: 15px 0;
+  margin: 20px 0;
+  text-align: center;
+  border-radius: 5px;
+}

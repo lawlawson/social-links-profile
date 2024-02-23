@@ -1,10 +1,15 @@
+import './links.css';
+
 const links = () => {
   return (
-    <div>
-      <div>Github</div>
-      <div>LinkedIn</div>
-      <div>Twitter</div>
-      <div>Frontend Mentor</div>
+    <div className='container-links'>
+      <ul>
+        <li>GitHub</li>
+        <li>Frontend Mentor</li>
+        <li>LinkedIn</li>
+        <li>Twitter</li>
+        <li>Instagram</li>
+      </ul>
     </div>
   );
 };
