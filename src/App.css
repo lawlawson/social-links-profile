@@ -21,4 +21,6 @@ body {
   border-radius: 15px;
   flex-direction: column;
   overflow: hidden;
+  height: 611px;
+  width: 384px;
 }

@@ -31,6 +31,14 @@
   text-align: center;
 }
 
+h1 {
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
 .location-info {
+  margin: 0;
+  padding-bottom: 20px;
   color: hsl(75, 73%, 51%);
 }
