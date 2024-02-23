@@ -1,0 +1,15 @@
+:root {
+  --clr-black: black;
+  --clr-dark-grey: darkgrey;
+  --clr-grey: grey;
+  --clr-white: white;
+  --clr-neon: yellow;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  background-color: var(--clr-black);
+  place-content: center;
+}
+

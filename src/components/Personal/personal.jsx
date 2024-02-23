@@ -1,13 +1,15 @@
+import './personal.css';
+
 const personal = () => {
   return (
-    <div>
-      <div>
-        <img src='../../../public/headshot.png' alt='profile picture' />
+    <div className='personal-info-container'>
+      <div className='image-container'>
+        <img src='../../../public/headshot.jpg' alt='profile picture' />
       </div>
-      <div>
-        <h1>Lawrence Narh-Lawson</h1>
-        <p>London, United Kingdom</p>
-        <p>Frontend Developer</p>
+      <div className='text-container'>
+        <h1>Jessica Randall</h1>
+        <p className='location-info'>London, United Kingdom</p>
+        <p>Front-end Developer and avid reader.</p>
       </div>
     </div>
   );
