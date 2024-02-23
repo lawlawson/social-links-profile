@@ -10,6 +10,7 @@
   margin: auto;
   flex-direction: column;
   font-family: var(--ff);
+  background-color: hsl(0, 0%, 13%);
 }
 
 .image-container {
@@ -31,5 +32,5 @@
 }
 
 .location-info {
-  color: yellow;
+  color: hsl(75, 73%, 51%);
 }

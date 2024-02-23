@@ -9,7 +9,7 @@ const personal = () => {
       <div className='text-container'>
         <h1>Jessica Randall</h1>
         <p className='location-info'>London, United Kingdom</p>
-        <p>Front-end Developer and avid reader.</p>
+        <p>&quot;Front-end Developer and avid reader.&quot;</p>
       </div>
     </div>
   );

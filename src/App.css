@@ -1,9 +1,9 @@
 :root {
-  --clr-black: black;
-  --clr-dark-grey: darkgrey;
-  --clr-grey: grey;
+  --clr-black: hsl(0, 0%, 8%);
+  --clr-dark-grey: hsl(0, 0%, 13%);
+  --clr-grey: hsl(0, 0%, 20%);
   --clr-white: white;
-  --clr-neon: yellow;
+  --clr-neon: hsl(75, 73%, 51%);
 }
 
 body {
@@ -12,4 +12,3 @@ body {
   background-color: var(--clr-black);
   place-content: center;
 }
-
