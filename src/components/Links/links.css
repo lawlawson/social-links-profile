@@ -24,4 +24,9 @@ li {
   margin: 20px 0;
   text-align: center;
   border-radius: 5px;
+  cursor: pointer;
+}
+
+li:hover {
+  background-color: var(--clr-neon);
 }
