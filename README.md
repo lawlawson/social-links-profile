@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/lawlawson/social-links-profile](https://github.com/lawlawson/social-links-profile)
-- Live Site URL: []()
+- Live Site URL: [https://soft-daffodil-5374fe.netlify.app/](https://soft-daffodil-5374fe.netlify.app/)
 
 ## My process
 
@@ -40,7 +40,7 @@ Users should be able to:
 
 ### What I learned
 
-Primarily working on layout using HTML & CSS. 
+Primarily working on layout using HTML & CSS.
 
 ## Author
 
