@@ -4,7 +4,7 @@ const personal = () => {
   return (
     <div className='personal-info-container'>
       <div className='image-container'>
-        <img src='/public/avatar-jessica.png' alt='profile picture' />
+        <img src='/public/assets/headshot.jpg' alt='profile picture' />
       </div>
       <div className='text-container'>
         <h1>Jessica Randall</h1>
